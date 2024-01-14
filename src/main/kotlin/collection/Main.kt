@@ -1,3 +1,5 @@
+package collection
+
 const val helloMessage = "Hello world!"
 
 fun calculator() {
